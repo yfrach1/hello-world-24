@@ -1,4 +1,5 @@
 def make_sequence(lst):
+    """ py string"""
     lst=lst
     index=0
     def all_filter(f=None):
